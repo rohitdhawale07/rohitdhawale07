@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rohitdhawale07](https://medium.com/@rohitdhawale07)
 
-- 💬 Ask me about **reactjs, javascript, html , css**
+- 💬 Ask me about **node js, reactjs, javascript**
 
 - 📫 How to reach me **rohitdhawale07@gmail.com**
 
