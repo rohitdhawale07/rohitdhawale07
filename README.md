@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1706745600&v=beta&t=GVv2L2EY0_C4qfh-qm9Kp_i5vPFl5LXjIxXKcKz8Oik)
 
 <h1 align="center">Hi 👋, I'm Rohit Dhawale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdhawale07&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdhawale07" /> </p>
