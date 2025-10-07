@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdhawale07&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdhawale07" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nestjs**
 
 - 📝 I regularly write articles on [https://medium.com/@rohitdhawale07](https://medium.com/@rohitdhawale07)
 
